@@ -1,0 +1,9 @@
+Document sentiment
+Positive
+Confidence: 96.00%
+96.00%
+POSITIVE
+4.00%
+NEUTRAL
+0.00%
+NEGATIVE
